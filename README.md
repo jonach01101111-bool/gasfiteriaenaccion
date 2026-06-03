@@ -43,7 +43,7 @@ Brindar una presencia digital profesional para Gasfitería en Acción, facilitan
 
 Autor
 -----
-Desarrollado por: Jonathan
+Desarrollado por: Jose Igancio Mendoza
 Proyecto académico y de aprendizaje enfocado en desarrollo web y gestión de repositorios con GitHub.
 
 Licencia
